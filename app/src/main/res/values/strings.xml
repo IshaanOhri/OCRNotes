@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OCR Notes</string>
+    <string name="token_id">269779459097-hpildpihjeqjalus3nudnu3ealrdkq1d.apps.googleusercontent.com</string>
+
+    <string name="private_radio_button">Private</string>
+    <string name="public_radio_button">Public</string>
+</resources>
